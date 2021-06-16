@@ -64,7 +64,7 @@ body {
   border: 2px dotted white;
 }
 
-#special {
+.review .header .special {
   border: 2px dotted black;
 }
 
